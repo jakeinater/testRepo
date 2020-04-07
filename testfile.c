@@ -11,6 +11,7 @@ int main()
 
 	//this is a random commment
 
+	printf("this is not on a newline\n but this is\n");
 	return 0;
 
 
