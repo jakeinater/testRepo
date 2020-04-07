@@ -7,5 +7,6 @@ int main()
 	scanf("%s", name);
 	printf("hello %s,\nIt's nice to meet you!", name);
 	printf("\n\n this is in another paragraph");
+	printf("newline");
 	return 0;
 }
