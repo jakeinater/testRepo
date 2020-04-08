@@ -1,2 +1,2 @@
 # testRepo
-seeing how github works
+this repo is just for me experimenting with github and git
